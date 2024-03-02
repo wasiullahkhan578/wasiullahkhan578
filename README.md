@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasiullah Khan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasiullahkhan578" alt="wasiullahkhan578" /></a> </p>
+
 
 - 🔭 I’m currently working on **NFTs Marketplace**
 
